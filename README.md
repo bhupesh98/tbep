@@ -19,9 +19,11 @@ We present a novel web-based bio-informatics tool designed to facilitate the ide
 
 ## Citation
 
-TBEP is published at [Zenodo](https://doi.org/10.5281/zenodo.16742136) as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16742136.svg)](https://doi.org/10.5281/zenodo.16742136)
+TBEP is published in Bioinformatics:
 
-To cite:
+> Bhupesh Dewangan, Debjyoti Ray, Yijie Ren, Shraddha Srivastava, Lei Jiang, Muneendra Ojha, Dong Xu, Gyan Srivastava, Target and Biomarker Exploration Portal for Drug Discovery, Bioinformatics, 2025; btaf627, https://doi.org/10.1093/bioinformatics/btaf627
+
+The Zenodo record contains the archival of the code:
 
 > Bhupesh Dewangan. (2025). Target and Biomarker Exploration Portal for Drug Discovery. Zenodo. https://doi.org/10.5281/zenodo.16742136
 
