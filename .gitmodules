@@ -4,6 +4,3 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/mizzoudbl/tbep-backend.git
-[submodule "chatbot"]
-	path = chatbot
-	url = https://github.com/DebjyotiRay/biomedical-qa-system
